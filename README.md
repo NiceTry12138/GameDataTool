@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-09-13 11:46:38
- * @LastEditTime: 2021-09-13 11:56:58
+ * @LastEditTime: 2021-09-13 12:06:31
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \MarkdownLogd:\Projects\pyqt\GameDataTool\README.md
@@ -16,5 +16,6 @@
 4. 针对多个Excel文件，可将其放在同一个文件夹下，工具提供一次性根据文件名全部转换成Json及其C++代码的功能
 
 代码使用pyqt编写，简单易懂
+所有输入框都支持拖入操作，即你可以选中文件、文件夹拖入到输入框中，输入框会自动处理文件路径
 
 [工具使用](https://docs.qq.com/doc/DWGZ5QnhEc0huZFJI)

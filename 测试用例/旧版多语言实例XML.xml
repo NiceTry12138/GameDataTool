@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<userContent>
+    <public_sys_language>zh</public_sys_language>
+    <!-- IOS 转盘提示 -->
+    <IOS_TurnTable_Tip>此活动与苹果公司无关</IOS_TurnTable_Tip>
+
+    <!-- 开始游戏-->
+    <StartScene_StartBtn>开始游戏</StartScene_StartBtn>
+    <StartScene_DiaryBtn>日记</StartScene_DiaryBtn>
+
+    <!-- 设置 -->
+    <SettingLayer_title>设置</SettingLayer_title>
+    <SettingLayer_toHmoePage>主页</SettingLayer_toHmoePage>
+    <SettingLayer_audio>音效</SettingLayer_audio>
+    
+    <!-- 奖励词 -->
+    <JiangliciLayer_title>奖励词</JiangliciLayer_title>
+    <JiangliciLayer_found>当前已收集的词语</JiangliciLayer_found>
+    <JiangliciLayer_jiangliBtn>领取奖励</JiangliciLayer_jiangliBtn>
+
+    <!-- 结束界面 -->
+    <EndLayer_nextPassBtn>下一关</EndLayer_nextPassBtn>
+    <EndLayer_title>挑战成功</EndLayer_title>
+    <EndLayer_Challenge_Title>挑战成功</EndLayer_Challenge_Title>
+
+    <!-- 玩法介绍 -->
+    <HowPlayLayer_title>玩法说明</HowPlayLayer_title>
+    <HowPlayLayer_1>选择字母，试着拼出一个单词</HowPlayLayer_1>
+    <HowPlayLayer_2>不属于目标词的字母会被消除，属于目标词的字母会被保留</HowPlayLayer_2>
+    <HowPlayLayer_3>点击撤回，同时也能撤回后面所有的字母</HowPlayLayer_3>
+
+    <!-- 新手引导 -->
+    <guide_1>点击字母，补全单词</guide_1>
+    <guide_2>消除一个多余字母</guide_2>
+    <guide_3>错误的字块将被消除，根据留下的字块找出正确的单词吧</guide_3>
+    <guide_4>恭喜找到一个奖励词，点击这里查看</guide_4>
+    <guide_5>显示需要用到的字母</guide_5>
+    <guide_6>填入一个字母</guide_6>
+
+    <!-- 游戏界面 -->
+    <GameScene_passIndex>关卡</GameScene_passIndex>
+    <GameScene_hasFind>刚刚已经找到了……</GameScene_hasFind>
+    <GameScene_noMoney>金币不足</GameScene_noMoney>
+
+    <!-- 关卡玩完 -->
+    <NoMorePass_Title>恭喜通关</NoMorePass_Title>
+    <NoMorePass_AllPass>关卡已经全部完成</NoMorePass_AllPass>
+    <NoMorePass_Thanks>感谢您的支持</NoMorePass_Thanks>
+    <NoMorePass_BackToOne>现在是否返回第一关重新体验关卡</NoMorePass_BackToOne>
+    <NoMorePass_NotClean>日记进度不会被清空</NoMorePass_NotClean>
+    <NoMorePass_UpdateIsRunning>新内容正紧急开发中……</NoMorePass_UpdateIsRunning>
+    <NoMorePass_NextUpdate>下次更新将直接开始新的关卡</NoMorePass_NextUpdate>
+    <NoMorePass_Yes>是</NoMorePass_Yes>
+    <NoMorePass_No>否</NoMorePass_No>
+
+    <!-- 转盘 -->
+    <TurnTable_0>幸运转盘</TurnTable_0>
+    <TurnTable_1>今日剩余次数</TurnTable_1>
+    <TurnTable_2>开始抽奖</TurnTable_2>
+    <TurnTable_3>欢迎明天再来</TurnTable_3>
+
+    <!-- 每日挑战 -->
+    <DailyChallenge_0>每日挑战</DailyChallenge_0>
+    <DailyChallenge_1>单词挑战</DailyChallenge_1>
+    <DailyChallenge_2>数字挑战</DailyChallenge_2>
+    <DailyChallenge_3>继续闯关</DailyChallenge_3>
+    <DailyChallenge_4>数字挑战 个人记录</DailyChallenge_4>
+    <DailyChallenge_5>胜利次数</DailyChallenge_5>
+    <DailyChallenge_6>总共猜测次数</DailyChallenge_6>
+    <DailyChallenge_7>平均猜测次数</DailyChallenge_7>
+    <DailyChallenge_8>最短猜测记录</DailyChallenge_8>
+    <DailyChallenge_9>完成</DailyChallenge_9>
+    <DailyChallenge_tip>请先完成今日的单词挑战</DailyChallenge_tip>
+
+    <!-- 每日挑战玩法说明 -->
+    <DailyChallenge_HowPlay_1>在“每日挑战”里，你会获得新的提示！</DailyChallenge_HowPlay_1>
+    <DailyChallenge_HowPlay_2>每次输入后，将会提示【？A？B】</DailyChallenge_HowPlay_2>
+    <DailyChallenge_HowPlay_3>A前面的数字表示：正确字母的个数</DailyChallenge_HowPlay_3>
+    <DailyChallenge_HowPlay_4>B前面的数字表示：在答案里但是位置不对的字母的个数</DailyChallenge_HowPlay_4>
+    <DailyChallenge_HowPlay_5>举例：正确答案为【right】</DailyChallenge_HowPlay_5>
+    <DailyChallenge_HowPlay_6>如果猜【ghijk】，提示：0A3B</DailyChallenge_HowPlay_6>
+    <DailyChallenge_HowPlay_7>如果猜【might】，提示：4A0B</DailyChallenge_HowPlay_7>
+    <DailyChallenge_HowPlay_8>如果猜【right】，提示：5A0B</DailyChallenge_HowPlay_8>
+
+    <!-- 每日挑战新手引导 -->
+    <DailyChallenge_guide_1>猜词次数没有上限，仔细思考找到答案吧！</DailyChallenge_guide_1>
+    <DailyChallenge_guide_2>之后也可以在页面右上角查看玩法说明哦~</DailyChallenge_guide_2>
+    <DailyChallenge_guide_3>知道了</DailyChallenge_guide_3>
+
+    <MoreGame_StartLayer_Challenge>挑战</MoreGame_StartLayer_Challenge>
+    <MoreGame_StartLayer_SignIn>签到</MoreGame_StartLayer_SignIn>
+    <MoreGame_StartLayer_Dairy>日记</MoreGame_StartLayer_Dairy>
+    <MoreGame_UnlockLayer_Title>更多玩法</MoreGame_UnlockLayer_Title>
+    <MoreGame_UnlockLayer_unlockGame>第%d关解锁新玩法</MoreGame_UnlockLayer_unlockGame>
+    <MoreGame_UnlockLayer_or>或者</MoreGame_UnlockLayer_or>
+    <MoreGame_UnlockLayer_UnlockFree>免费解锁</MoreGame_UnlockLayer_UnlockFree>
+    <MoreGame_DailyChallenge_title>挑战更多玩法，领取每日奖励吧</MoreGame_DailyChallenge_title>
+    <MoreGame_DailyChallenge_endCoin>更多奖励：</MoreGame_DailyChallenge_endCoin>
+    <MoreGame_DailyChallenge_endContinue>继续挑战</MoreGame_DailyChallenge_endContinue>
+    <MoreGame_SignLayer_Title>每日签到</MoreGame_SignLayer_Title>
+    <MoreGame_SignLayer_SignIn>签到</MoreGame_SignLayer_SignIn>
+    <MoreGame_SignLayer_SignSuccess>签到成功！</MoreGame_SignLayer_SignSuccess>
+    <MoreGame_SignLayer_DoubleCoin>双倍领取</MoreGame_SignLayer_DoubleCoin>
+    <MoreGame_SignLayer_ensure>确定</MoreGame_SignLayer_ensure>
+    <MoreGame_SignLayer_hasDone>今日签到已完成&#x000A;明天记得来哦</MoreGame_SignLayer_hasDone>
+    <NumberThemeLayer_title>输入数字，根据提示找出正确答案吧</NumberThemeLayer_title>
+    <NumberTheme_HowPlayLayer_title>根据提示猜出正确的数字吧！</NumberTheme_HowPlayLayer_title>
+    <NumberTheme_HowPlayLayer_1>Step1 随便猜一组数字</NumberTheme_HowPlayLayer_1>
+    <NumberTheme_HowPlayLayer_2>Step2 获得提示【? A ? B】</NumberTheme_HowPlayLayer_2>
+    <NumberTheme_HowPlayLayer_3>举例：猜测1234</NumberTheme_HowPlayLayer_3>
+    <NumberTheme_HowPlayLayer_4>获得提示：1A2B</NumberTheme_HowPlayLayer_4>
+    <NumberTheme_HowPlayLayer_5>Step3 猜测次数没有上限，反复尝试，找出正确的组合哦</NumberTheme_HowPlayLayer_5>
+    <NumberTheme_HowPlayLayer_6>Tip 利用提示进行排除，逐渐锁定目标</NumberTheme_HowPlayLayer_6>
+    <NumberTheme_HowPlayLayer_7>Goal 尝试用更少的次数找到答案吧！</NumberTheme_HowPlayLayer_7>
+
+    <StartLayer_FeedBack>反馈</StartLayer_FeedBack>
+    <StartLayer_Share>分享</StartLayer_Share>
+</userContent>
